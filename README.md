@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Bayu Febry Asmoro
-#### A passionate mobile developer from Indonesia
+#### Mobile Developer
 A passionate mobile developer with a love for creating captivating digital experiences. My journey into the world of mobile development began with the curiosity to transform ideas into functional and delightful apps.
 
 Skills: iOS / Flutter
